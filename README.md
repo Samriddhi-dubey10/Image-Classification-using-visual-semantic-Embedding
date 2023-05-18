@@ -13,9 +13,13 @@ classification. The designed prototype also takes into consideration the detecti
 images. i.e the model has not been trained with the image at all earlier
 . Below in Table, all the outcomes of the project model are mentioned with its specifications.
 ![image](https://github.com/Samriddhi-dubey10/Image-Classification-using-visual-semantic-Embedding/assets/74581936/d3be1505-0604-4a86-ab30-468ff465d532)
+
 Resnet 50 outcome
+
 ![image](https://github.com/Samriddhi-dubey10/Image-Classification-using-visual-semantic-Embedding/assets/74581936/aee86233-252e-4bd9-abda-5b538240aedd)
+
 Vgg16 model outcome
+
 ![image](https://github.com/Samriddhi-dubey10/Image-Classification-using-visual-semantic-Embedding/assets/74581936/99cf21dc-3e61-4852-a4f4-deda06ee7688)
 
 Vgg19 outcome
