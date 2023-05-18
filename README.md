@@ -17,6 +17,7 @@ Resnet 50 outcome
 ![image](https://github.com/Samriddhi-dubey10/Image-Classification-using-visual-semantic-Embedding/assets/74581936/aee86233-252e-4bd9-abda-5b538240aedd)
 Vgg16 model outcome
 ![image](https://github.com/Samriddhi-dubey10/Image-Classification-using-visual-semantic-Embedding/assets/74581936/99cf21dc-3e61-4852-a4f4-deda06ee7688)
+
 Vgg19 outcome
 ![image](https://github.com/Samriddhi-dubey10/Image-Classification-using-visual-semantic-Embedding/assets/74581936/587fd027-7f95-4de8-ba49-f63d7d40ef33)
 
